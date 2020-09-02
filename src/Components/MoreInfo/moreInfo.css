@@ -1,0 +1,13 @@
+.more-info{
+    margin: 4% 20%;
+    padding: 40px;
+    box-shadow: 10px 10px 10px rgb(144, 146, 148);
+    border-radius: 15px;
+}
+.more-info > img{
+    width: 50%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 10px 10px 5px rgba(93, 103, 114, 0.445);
+}
